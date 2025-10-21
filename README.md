@@ -8,7 +8,7 @@ LAB A — Flask + Github Team Log
 
 - Huerto, Carl Denzel G.
 - Loma, Franz Angelo R.
-- Nava, Rio
+- Nava, Rio Angela T. 
 - Osorio, Kenneth P.
 - Patron, Kristala P.
 
